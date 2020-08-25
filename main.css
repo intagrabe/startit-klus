@@ -1,0 +1,153 @@
+html, body{
+    height: 100vh;
+}
+
+.kr-kolonna{
+background: linear-gradient(180deg, #0084F8 0%, #00C6FF 100%);
+}
+
+.lb-kolonna{
+    background: #E5E5E5;
+}
+
+.sveiciens{
+width: 361px;
+height: 140px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 54px;
+line-height: 70px;
+/* or 130% */
+
+text-align: center;
+
+/* primary/white */
+
+color: #FFFFFF;
+margin: 0 auto;
+}
+
+.group1{
+width: 80%;
+height: 256px;
+text-align: center;
+margin: 0 auto;
+margin-top: 10vh;
+}
+
+.line{
+width: 60%;
+height: 0px;
+margin: 0 auto;
+
+/* primary/white */
+
+border: 1px solid #FFFFFF;
+}
+.paskaidrojums{
+       
+    /* header/h5 */
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    /* primary/white */
+    
+    color: #FFFFFF;  
+}
+
+.kimija{
+    margin: 0 auto;
+    display: block;
+    margin-top: 10vh;
+}
+
+.zila{
+    color: #0084F8;
+}
+
+.peleks{
+    color: #52616B;
+}
+
+.kaste{
+    display: block;
+}
+
+.poga1{
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    display: inline-flex;
+    align-items: center;
+    
+    /* primary/white */
+    
+    color: #FFFFFF;
+    background: #0084F8;
+}
+
+.poga2{
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    display: inline-flex;
+    align-items: center;
+    
+    /* primary/b200 */
+    
+    color: #0084F8;
+    background: #E5E5E5;
+}
+
+.group3{
+    width: 80%;
+    height: 256px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10vh;
+    }
+    
+    .line{
+    width: 60%;
+    height: 0px;
+    margin: 0 auto;
+    
+    /* primary/white */
+    
+    border: 1px solid #FFFFFF;
+    }
+
+    .pa-kreisi{
+        text-align: left;
+    }
+
+    .poga3{
+        background: #FF8576;
+        font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 34px;
+display: flex;
+align-items: center;
+
+/* primary/white */
+
+color: #FFFFFF;
+position: absolute;
+bottom: 2vh;
+right: 2vw;
+    }
